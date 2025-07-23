@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ⚙️ Настройка (.env):
 
-# Обязательные параметры  
+# Обезательные параметры  
 TOKEN=ваш_токен_бота  
 OPENAI_API_KEY=ваш_ключ_openai  
 
