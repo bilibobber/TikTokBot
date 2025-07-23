@@ -1,0 +1,30 @@
+# Файлы IDE и ОС
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Виртуальное окружение
+venv/
+.env/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Секреты
+.env
+*.env
+config.py
+secrets.json
+
+# Логи и временные файлы
+*.log
+*.tmp
+.cache/
+
+# Файлы сборки и зависимостей
+dist/
+build/
+*.egg-info/
