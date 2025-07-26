@@ -1,6 +1,6 @@
 from aiogram import Router
 from aiogram.types import Message
-from aiogram.filters import Command, CommandStart
+from aiogram.filters import Command
 
 from app.scripts.openai_query import gpt_answer
 
